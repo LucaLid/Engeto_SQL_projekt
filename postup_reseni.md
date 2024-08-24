@@ -3,7 +3,7 @@
 2. Následně jsem si oldschoolově na papíře zaznamenala, které sloupce z kterých tabulek potřebuju využít. 
 3. Vytvořila jsem primární tabulky:
    * t_lucie_lidajova_project_sql_primary_final *
-   * 
+   * t_lucie_lidajova_project_sql_secondary_final *
 
 ## ODPOVĚDI NA KONKRÉTNÍ VÝZKUMNÉ OTÁZKY ##
 
