@@ -1,23 +1,28 @@
 ##  DÍLČÍ KROKY PŘI ŘEŠENÍ ##
-1. V DBeaver jsem se nejprve potřebovala zorientovat v tabulkách, které nahraná datová sada obsahuje. Datovou sadu jsme měli již nahranou od Engeta. 
+1. V DBeaver jsem se nejprve potřebovala zorientovat v tabulkách, které nahraná datová sada obsahuje a co se pod jednotlivými sloupci skrývá za význam. Datovou sadu jsme měli již nahranou od Engeta. 
 2. Následně jsem si oldschoolově na papíře zaznamenala, které sloupce z kterých tabulek potřebuju využít. 
 3. Vytvořila jsem primární tabulky:
    * t_lucie_lidajova_project_sql_primary_final *
    * t_lucie_lidajova_project_sql_secondary_final *
-
+4. Pak jsem ke každé otázce dotazovala přes SQL odpovědi. 
 ## ODPOVĚDI NA KONKRÉTNÍ VÝZKUMNÉ OTÁZKY ##
 
 ### Q1: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají? ###
-Závěr: U většiny odvětví meziročně mzdy rostly. Z celkových 228 záznamů klesly celkem v 23 případech. Nejvýraznější pokles mezd nastal v roce 2013, a to celkem v 11 z 19 odvětví, což odpovídá ekonomické krizi roku 2013.    
+U většiny odvětví meziročně mzdy rostly. Z celkových 228 záznamů klesly celkem v 23 případech. Nejvýraznější pokles mezd nastal v roce 2013, a to celkem v 11 z 19 odvětví, což odpovídá ekonomické krizi roku 2013.    
 
-Zde datové podklady: https://github.com/LucaLid/Engeto_SQL_projekt/edit/main/postup_reseni.md
-
+[Zde datové podklady](https://github.com/LucaLid/Engeto_SQL_projekt/edit/main/postup_reseni.md)
 
 ### Q2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd? ###
+- **CHLÉB**
+  - V roce 2006 bylo možné si z průměrného platu koupit  914 kg chleba. 
+  - V roce 2018 bylo možné si z průměrného platu koupit 1054 kg chleba. 
+- **MLÉKO**
+  - V roce 2006 bylo možné si z průměrného platu koupit  1044 l mléka. 
+  - V roce 2018 bylo možné si z průměrného platu koupit  1265 l mléka. 
 
+[Zde datové podklady](https://github.com/LucaLid/Engeto_SQL_projekt/blob/main/Q2%3A%20Ml%C3%A9ko%2C%20chleba.sql)
 
-
-
+### Q3: Která kategorie potravin zdražuje nejpomaleji?
 
 ### Q4: Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)? ###
 
