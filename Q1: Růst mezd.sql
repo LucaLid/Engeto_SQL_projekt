@@ -48,3 +48,5 @@ WITH payroll_data AS (
 SELECT *
 FROM payroll_data
 WHERE payroll_trend = "falling"; 
+
+-- pozn. SELECT * FROM payroll__data  mi vrátil celkem 228 záznamů --
