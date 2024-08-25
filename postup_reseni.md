@@ -29,8 +29,10 @@ Ve sledovaném období zdražovaly nejpomaleji potraviny: cukr, rajčata a baná
 [Zde datové podklady](https://github.com/LucaLid/Engeto_SQL_projekt/blob/main/Q3%3A%20Nejpomalej%C5%A1%C3%AD%20zdra%C5%BEov%C3%A1n%C3%AD.sql)
 
 ### Q4: Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)? ###
+Největší zaznamenaný rozdíl v meziročním růstu potravin v porovnání s růstem mezd nastal v roce 2009, a to **9,42%**.
+Naproti tomu v letech 2010 a 2017 byly meziroční přírůstky cen VS mezd nejnižší - **0.36%**. 
 
-
+[Zde datové podklady](https://github.com/LucaLid/Engeto_SQL_projekt/blob/main/Q4%3A%20V%C3%BDrazn%C3%BD%20n%C3%A1r%C5%AFst%20cen%20potravin.sql)
 
 
 ### Q5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem? ###
