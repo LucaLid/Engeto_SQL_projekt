@@ -23,6 +23,10 @@ U většiny odvětví meziročně mzdy rostly. Z celkových 228 záznamů klesly
 [Zde datové podklady](https://github.com/LucaLid/Engeto_SQL_projekt/blob/main/Q2%3A%20Ml%C3%A9ko%2C%20chleba.sql)
 
 ### Q3: Která kategorie potravin zdražuje nejpomaleji?
+Ve sledovaném období zdražovaly nejpomaleji potraviny: cukr, rajčata a banány. 
+- Naopak nejrychlejší nárůst cen je zaznamenán u paprik, másla a vajec.
+
+[Zde datové podklady](https://github.com/LucaLid/Engeto_SQL_projekt/blob/main/Q3%3A%20Nejpomalej%C5%A1%C3%AD%20zdra%C5%BEov%C3%A1n%C3%AD.sql)
 
 ### Q4: Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)? ###
 
