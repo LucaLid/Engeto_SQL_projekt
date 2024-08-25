@@ -14,11 +14,11 @@ U většiny odvětví meziročně mzdy rostly. Z celkových 228 záznamů klesly
 
 ### Q2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd? ###
 - **CHLÉB**
-  - V roce 2006 bylo možné si z průměrného platu koupit  914 kg chleba. 
-  - V roce 2018 bylo možné si z průměrného platu koupit 1054 kg chleba. 
+  - V roce 2006 bylo možné si z průměrného platu koupit 1297 kg chleba. 
+  - V roce 2018 bylo možné si z průměrného platu koupit 1356 kg chleba. 
 - **MLÉKO**
-  - V roce 2006 bylo možné si z průměrného platu koupit  1044 l mléka. 
-  - V roce 2018 bylo možné si z průměrného platu koupit  1265 l mléka. 
+  - V roce 2006 bylo možné si z průměrného platu koupit  1482 l mléka. 
+  - V roce 2018 bylo možné si z průměrného platu koupit  1627 l mléka. 
 
 [Zde datové podklady](https://github.com/LucaLid/Engeto_SQL_projekt/blob/main/Q2%3A%20Ml%C3%A9ko%2C%20chleba.sql)
 
