@@ -38,5 +38,5 @@ SELECT
     price_growth_percentage,
     payroll_growth_percentage,
     growth_difference
-FROM 
-    cte_growth_comparison
+FROM cte_growth_comparison
+ORDER BY growth_difference DESC
