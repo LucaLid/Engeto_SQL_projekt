@@ -36,5 +36,6 @@ Naproti tomu v letech 2010 a 2017 byly meziroční přírůstky cen VS mezd nejn
 
 
 ### Q5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem? ###
-Zatím nedokážu odpověďět, myslím, že nemám sprváně nápočty. 
-[Zde datové podklady] (https://github.com/LucaLid/Engeto_SQL_projekt/blob/main/Q5%3A%20Vliv%20HDP%20na%20mzdy%20a%20potraviny.sql)
+Zatím nedokážu odpověďět, myslím, že nemám správně nápočty. 
+
+[Zde datové podklady](https://github.com/LucaLid/Engeto_SQL_projekt/blob/main/Q5%3A%20Vliv%20HDP%20na%20mzdy%20a%20potraviny.sql)
